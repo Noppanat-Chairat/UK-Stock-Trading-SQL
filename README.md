@@ -20,7 +20,7 @@ Logic: Matches sell orders with their corresponding previous buy orders using `L
 Logic: Calculates the peak-to-trough decline in portfolio equity to assess downside risk.
 
 ## Results
-![Query Results](Results.png)
+![Query Results](Result.png)
 
 * **Top Performer:** Rolls-Royce (RR.L) showed significant upside but with high volatility.
 * **Risk Note:** Aston Martin (AML.L) demonstrated the risks of trend-following strategies in a downtrend market.
