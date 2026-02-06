@@ -1,0 +1,11 @@
+# Python Generated Files (ไฟล์ที่ Python สร้างเอง ไม่ต้องเอาขึ้น)
+__pycache__/
+*.pyc
+
+# Mac System Files (ไฟล์ตั้งค่าโฟลเดอร์ของ Mac รกมากถ้าเอาขึ้น)
+.DS_Store
+
+# Virtual Environments (ถ้ามี)
+venv/
+env/
+.env
